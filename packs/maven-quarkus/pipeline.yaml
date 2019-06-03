@@ -1,5 +1,5 @@
 extends:
   file: ../maven/pipeline.yaml
 agent:
-  label: jenkins-maven-quarkus
+  label: jenkins-maven-graalvm
   container: maven
