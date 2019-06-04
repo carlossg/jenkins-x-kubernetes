@@ -2,4 +2,4 @@ extends:
   file: ../maven/pipeline.yaml
 agent:
   label: jenkins-maven-graalvm
-  container: maven
+  container: maven-graalvm
