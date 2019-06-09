@@ -1,5 +1,5 @@
 extends:
   file: ../maven/pipeline.yaml
 agent:
-  label: jenkins-maven-graalvm
-  container: maven-graalvm
+  label: jenkins-maven-graalvmx
+  container: maven-graalvmy
